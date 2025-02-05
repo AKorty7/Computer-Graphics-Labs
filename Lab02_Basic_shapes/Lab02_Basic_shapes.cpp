@@ -5,6 +5,7 @@
 
 #include <common/shader.hpp>
 
+
 // Function prototypes
 void keyboardInput(GLFWwindow *window);
 
