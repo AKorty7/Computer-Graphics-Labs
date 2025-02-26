@@ -7,4 +7,11 @@
 int main() {
     
     return 0;
+
+    // Vectors 
+    printf("Vectors and Matrices\n");
+    printf("--------------------------------------------------\n");
+
+    // Defining vectors
+    glm::vec3
 }
